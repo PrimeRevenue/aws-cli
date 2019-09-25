@@ -10,7 +10,7 @@ docker build -t primerevenue/aws-cli .
 
 
 
-[![DockerHub Badge](http://dockeri.co/image/mesosphere/aws-cli)](https://hub.docker.com/r/primerevenue/aws-cli/)
+[![DockerHub Badge](http://dockeri.co/image/primerevenue/aws-cli)](https://hub.docker.com/r/primerevenue/aws-cli/)
 
 ## Usage
 
